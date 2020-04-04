@@ -1,0 +1,42 @@
+Case #1: POSSIBLE
+1 2 3 4 5
+5 1 2 3 4
+4 5 1 2 3
+3 4 5 1 2
+2 3 4 5 1
+Case #2: POSSIBLE
+2 3 4 5 1
+1 2 3 4 5
+5 1 2 3 4
+4 5 1 2 3
+3 4 5 1 2
+Case #3: POSSIBLE
+3 4 5 1 2
+2 3 4 5 1
+1 2 3 4 5
+5 1 2 3 4
+4 5 1 2 3
+Case #4: POSSIBLE
+4 5 1 2 3
+3 4 5 1 2
+2 3 4 5 1
+1 2 3 4 5
+5 1 2 3 4
+Case #5: POSSIBLE
+5 1 2 3 4
+4 5 1 2 3
+3 4 5 1 2
+2 3 4 5 1
+1 2 3 4 5
+Case #6: POSSIBLE
+2 3 1
+1 2 3
+3 1 2
+Case #7: IMPOSSIBLE
+Case #8: IMPOSSIBLE
+Case #9: POSSIBLE
+5 1 2 3 4
+4 5 1 2 3
+3 4 5 1 2
+2 3 4 5 1
+1 2 3 4 5
